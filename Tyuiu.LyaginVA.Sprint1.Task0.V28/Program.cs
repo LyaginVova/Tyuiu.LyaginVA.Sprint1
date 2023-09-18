@@ -34,7 +34,6 @@ namespace Tyuiu.LyaginVA.Sprint1.Task0.V28
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(ds.Calculate());
-
             Console.ReadLine();
         }
     }
